@@ -1,0 +1,10 @@
+{
+	"name":"en-us|Developer",
+	"version":"0.0",
+	"permissions":["developer"],
+	"menuOrder":1,
+	"additionalMenu":[
+		{"ref":"../view","permissions":["developer"],"args":["db/lanMac"],"label":"en-us|Mac Addresses","icon":"../lib/definitions/db.lanMac"},
+		{"ref":"../view","permissions":["developer"],"args":["db/lanHardware"],"label":"en-us|LAN Hardware","icon":"../lib/definitions/db.lanHardware"}
+	]
+}

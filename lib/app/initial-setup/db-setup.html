@@ -1,0 +1,33 @@
+<section>
+	<h3>en-us|DB Setup</h3>
+	<fieldset>
+	<label for="server">en-us|Server</label>
+	<input type="text" id="server" data-validate="not-empty" data-field="text">
+	</fieldset>
+	
+	<fieldset>
+	<label for="db">en-us|DB Name</label>
+	<input type="text" id="db" data-validate="not-empty" data-field="text">
+	</fieldset>
+	
+	<fieldset>
+	<label for="user">en-us|User</label>
+	<input type="text" id="user" data-validate="not-empty" data-field="text">
+	</fieldset>
+	
+	<fieldset>
+	<label for="password">en-us|Password</label>
+	<input type="password" id="password" data-validate="password,not-empty" data-field="password">
+	</fieldset>
+
+	<fieldset>
+	<label for="confPassword">en-us|Re-type Password</label>
+	<input type="password" id="confPassword" data-validate="password-confirm,not-empty">
+	</fieldset>
+	
+	<fieldset>
+	<input type="button" id="continue" value="en-us|Continue" data-validate="1">
+	</fieldset>
+	
+	<div class="form-message"></div>
+</section>

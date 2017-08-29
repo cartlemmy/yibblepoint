@@ -1,0 +1,8 @@
+{
+	"name":"en-us|YibblePoint Setup",
+	"version":"0.0",
+	"usesPersistentAppData":true,
+	"permissions":["initial-setup"],
+	"noMenu":true,
+	"coreApp":true
+}

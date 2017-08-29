@@ -1,0 +1,23 @@
+.call-to-action {
+	margin:40px 0 40px 0;
+	text-align:center;
+	color:#FFF6C7;
+	font-size:40px;
+}
+
+.call-to-action-sub {
+	margin:40px 0 40px 0;
+	text-align:center;
+	color:#FF7F00;
+	font-size:24px;
+}
+
+.call-to-action.mobile {
+	margin:20px 0 20px 0;
+	font-size:18px;
+}
+
+.call-to-action-sub.mobile {
+	margin:20px 0 20px 0;
+	font-size:12px;
+}

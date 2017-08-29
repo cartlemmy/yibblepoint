@@ -1,0 +1,7 @@
+{
+	"name":"en-us|Scanner",
+	"version":"0.0",
+	"usesPersistentAppData":true,
+	"permissions":["user"],
+	"noMenu":true
+}

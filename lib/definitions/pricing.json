@@ -1,0 +1,10 @@
+{
+	"emailBlast":{
+		"text":1,
+		"image":2,
+		"html":1,
+		"priority":1,
+		"notOptedIn":3,
+		"tags":1
+	}
+}

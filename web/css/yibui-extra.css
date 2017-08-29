@@ -1,0 +1,19 @@
+.content {
+	position:relative;
+	max-width:1020px;
+	margin:0 auto;
+}
+
+.narrow {
+	position:relative;
+	max-width:700px;
+	margin:0 auto;
+}
+
+
+nav div {
+	display:inline-block;
+	padding:4px 12px;
+	margin:8px;
+	border-bottom:1px solid #E3E3E3;
+}

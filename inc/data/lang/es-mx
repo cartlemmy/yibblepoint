@@ -1,0 +1,3223 @@
+Logged-in-as
+human
+Conectado como
+Conectado como
+----
+lang
+e
+e
+e|e
+----
+Century
+human
+Centuria
+Centuria
+----
+Centuries
+human
+Centurias
+Centurias
+----
+Year
+human
+Año
+Año
+----
+Years
+human
+Años
+Años
+----
+Day
+human
+Día
+Día
+----
+Days
+human
+Días
+Días
+----
+Hour
+human
+Hora
+Hora
+----
+Hours
+human
+Horas
+Horas
+----
+Minute
+human
+Minuto
+Minuto
+----
+Minutes
+human
+Minutos
+Minutos
+----
+Second
+human
+Segundo
+Segundo
+----
+Seconds
+human
+Segundos
+Segundos
+----
+Millisecond
+human
+Millisegundo
+Millisegundo
+----
+Milliseconds
+human
+Millisegundos
+Millisegundos
+----
+None
+human
+Nada
+Nada
+----
+N-A
+human
+N/A
+N/A
+----
+a965ec5e5a624843a4660621688a707e98341ef8
+human
+Por favor siga el siguiente enlace para confirmar tu dirección de correo electrónico.
+Por favor siga el siguiente enlace para confirmar tu dirección de correo electrónico.
+----
+Start
+human
+Comenzar
+Comenzar
+----
+-st-rd-th-
+untranslated
+(st|rd|th)?
+th)?
+----
+1bcb83f87b83547507e078a32395d36ad720362b
+untranslated
+(january|february|march|april|may|june|july|august|september|october|november|december)
+en-us|(january|february|march|april|may|june|july|august|september|october|november|december)
+----
+f82a2032bbdba1682018fc6b73b3dfceff4ade2d
+untranslated
+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)
+en-us|(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)
+----
+05d7220060939537ee361ef49d47303d86af60ef
+untranslated
+(sunday|monday|tuesday|wednesday|thurday|friday|saturday|month|week|year)
+en-us|(sunday|monday|tuesday|wednesday|thurday|friday|saturday|month|week|year)
+----
+-am-pm-
+untranslated
+(am|pm)
+en-us|(am|pm)
+----
+today
+untranslated
+today
+en-us|today
+----
+now
+untranslated
+now
+en-us|now
+----
+yesterday
+untranslated
+yesterday
+en-us|yesterday
+----
+tomorrow
+untranslated
+tomorrow
+en-us|tomorrow
+----
+next
+untranslated
+next
+en-us|next
+----
+last
+untranslated
+last
+en-us|last
+----
+previous
+untranslated
+previous
+en-us|previous
+----
+Date
+untranslated
+Date
+Date
+----
+Time
+untranslated
+Time
+Time
+----
+New
+untranslated
+New
+New
+----
+Save
+untranslated
+Save
+Save
+----
+Saving
+untranslated
+Saving
+Saving
+----
+Saved
+untranslated
+Saved
+Saved
+----
+4d2fc0166297e373ebf9a9649f0df443490877fb
+untranslated
+ has unsaved changes, Do you want to save before closing?
+ has unsaved changes, Do you want to save before closing?
+----
+Yes
+untranslated
+Yes
+Yes
+----
+No
+untranslated
+No
+No
+----
+8ecf25a588e0a1e112f95a5c3a0ac5a3e13d164d
+untranslated
+Please fix the highlighted problems first.
+Please fix the highlighted problems first.
+----
+Cannot-be-empty
+untranslated
+Cannot be empty
+Cannot be empty
+----
+More-than-one-address-listed
+untranslated
+More than one address listed
+More than one address listed
+----
+Use-one-address
+untranslated
+Use one address
+Use one address
+----
+E-mail-too-long
+untranslated
+E-mail too long
+E-mail too long
+----
+e2581e745c5f1b8b8c8a67a216b0721876c60625
+untranslated
+Shorten to 255 characters or less.
+Shorten to 255 characters or less.
+----
+Spaces-in-E-mail-address
+untranslated
+Spaces in E-mail address
+Spaces in E-mail address
+----
+Remove-spaces-
+untranslated
+Remove spaces.
+Remove spaces.
+----
+One-symbol-required
+untranslated
+One @ symbol required
+One @ symbol required
+----
+Add-the-symbol
+untranslated
+Add the @ symbol
+Add the @ symbol
+----
+Only-one-symbol-allowed
+untranslated
+Only one @ symbol allowed
+Only one @ symbol allowed
+----
+Remove-extra-symbols
+untranslated
+Remove extra @ symbols
+Remove extra @ symbols
+----
+No-domain-specified
+untranslated
+No domain specified
+No domain specified
+----
+Add-domain-after-the-symbol
+untranslated
+Add domain after the @ symbol
+Add domain after the @ symbol
+----
+Local-part-too-long
+untranslated
+Local part too long
+Local part too long
+----
+Cannot-start-with-dot-
+untranslated
+Cannot start with dot (.)
+Cannot start with dot (.)
+----
+Remove-the-dot
+untranslated
+Remove the dot
+Remove the dot
+----
+Dot-cannot-come-before-symbol
+untranslated
+Dot (.) cannot come before @ symbol
+Dot (.) cannot come before @ symbol
+----
+Invalid-character-s-
+untranslated
+Invalid character(s)
+Invalid character(s)
+----
+Remove-the-invalid-character-s-
+untranslated
+Remove the invalid character(s)
+Remove the invalid character(s)
+----
+61d23c5ed24c89f4ab74e08a3fdc29e369a65e89
+untranslated
+Two or more dots (..) in a row not allowed
+Two or more dots (..) in a row not allowed
+----
+Remove-the-extra-dot-s-
+untranslated
+Remove the extra dot(s)
+Remove the extra dot(s)
+----
+738c00fd6a6c1e55e38e952aad9abdee7914d787
+untranslated
+Only letters, numbers and underscores allowed
+Only letters, numbers and underscores allowed
+----
+User-Name-already-taken-
+untranslated
+User Name already taken.
+User Name already taken.
+----
+is-very-weak
+untranslated
+is very weak
+en-us|is very weak
+----
+is-weak
+untranslated
+is weak
+en-us|is weak
+----
+is-fair
+untranslated
+is fair
+en-us|is fair
+----
+could-be-better
+untranslated
+could be better
+en-us|could be better
+----
+is-good
+untranslated
+is good
+en-us|is good
+----
+Too-short
+untranslated
+Too short
+Too short
+----
+088f2d8bc8d565f29a66ecf1cb1fec6fc374cc63
+untranslated
+Contains a commonly used password
+Contains a commonly used password
+----
+Is-a-commonly-used-password
+untranslated
+Is a commonly used password
+Is a commonly used password
+----
+73be2df12a2446c7d2cab58df897efb688ffba5b
+untranslated
+A password of this length should contain 
+A password of this length should contain 
+----
+mixed-case
+untranslated
+mixed case
+en-us|mixed case
+----
+numbers
+untranslated
+numbers
+en-us|numbers
+----
+symbols
+untranslated
+symbols
+en-us|symbols
+----
+and-or-
+untranslated
+and/or 
+en-us|and/or 
+----
+Ends-in-a-number
+untranslated
+Ends in a number
+Ends in a number
+----
+-You-re-close-make-a-bit-longer-
+untranslated
+• You're close, make a bit longer.
+• You're close, make a bit longer.
+----
+Password-strength-
+untranslated
+Password strength 
+Password strength 
+----
+Passwords-don-t-match-
+untranslated
+Passwords don't match.
+Passwords don't match.
+----
+Search
+untranslated
+Search
+Search
+----
+SEARCH
+untranslated
+SEARCH
+SEARCH
+----
+Sign-Up
+untranslated
+Sign Up
+Sign Up
+----
+Log-In
+untranslated
+Log In
+Log In
+----
+E-mail-or-Log-In-Name
+untranslated
+E-mail or Log In Name
+E-mail or Log In Name
+----
+Password
+untranslated
+Password
+Password
+----
+Facebook
+untranslated
+Facebook
+Facebook
+----
+Twitter
+untranslated
+Twitter
+Twitter
+----
+Name
+untranslated
+Name
+Name
+----
+E-mail
+untranslated
+E-mail
+E-mail
+----
+Login-Name
+untranslated
+Login Name
+Login Name
+----
+Re-type-Password
+untranslated
+Re-type Password
+Re-type Password
+----
+Submit
+untranslated
+Submit
+Submit
+----
+Users
+untranslated
+Users
+Users
+----
+User
+untranslated
+User
+User
+----
+Image
+untranslated
+Image
+Image
+----
+Permissions
+untranslated
+Permissions
+Permissions
+----
+Admin
+untranslated
+Admin
+Admin
+----
+User-Admin
+untranslated
+User Admin
+User Admin
+----
+CRM
+untranslated
+CRM
+CRM
+----
+Office
+untranslated
+Office
+Office
+----
+6abf973f6f3ed17cc64f6b4fc5473851e045df8e
+untranslated
+The parent account cannot deselect admin permission.
+The parent account cannot deselect admin permission.
+----
+Blast-Queue
+untranslated
+Blast Queue
+Blast Queue
+----
+Blast-Queue-Item
+untranslated
+Blast Queue Item
+Blast Queue Item
+----
+Contact
+untranslated
+Contact
+Contact
+----
+Blast
+untranslated
+Blast
+Blast
+----
+State
+untranslated
+State
+State
+----
+Queued
+untranslated
+Queued
+Queued
+----
+Sent
+untranslated
+Sent
+Sent
+----
+Send-Failed
+untranslated
+Send Failed
+Send Failed
+----
+Fail-Bounce-Back
+untranslated
+Fail: Bounce Back
+Fail: Bounce Back
+----
+Flags
+untranslated
+Flags
+Flags
+----
+Viewed
+untranslated
+Viewed
+Viewed
+----
+Clicked
+untranslated
+Clicked
+Clicked
+----
+Failed
+untranslated
+Failed
+Failed
+----
+Unsubscribed
+untranslated
+Unsubscribed
+Unsubscribed
+----
+Campaign-Components
+untranslated
+Campaign Components
+Campaign Components
+----
+Campaign-Component
+untranslated
+Campaign Component
+Campaign Component
+----
+Type
+untranslated
+Type
+Type
+----
+E-mail-Blast
+untranslated
+E-mail Blast
+E-mail Blast
+----
+Status
+untranslated
+Status
+Status
+----
+Sending
+untranslated
+Sending
+Sending
+----
+Cost
+untranslated
+Cost
+Cost
+----
+Revenue
+untranslated
+Revenue
+Revenue
+----
+Views
+untranslated
+Views
+Views
+----
+Clicks
+untranslated
+Clicks
+Clicks
+----
+Rejections
+untranslated
+Rejections
+Rejections
+----
+Basic-Info
+untranslated
+Basic Info
+Basic Info
+----
+Edit
+untranslated
+Edit
+Edit
+----
+Campaigns
+untranslated
+Campaigns
+Campaigns
+----
+Campaign
+untranslated
+Campaign
+Campaign
+----
+Organization-s-
+untranslated
+Organization(s)
+Organization(s)
+----
+Organization
+untranslated
+Organization
+Organization
+----
+Contacts
+untranslated
+Contacts
+Contacts
+----
+displayname
+untranslated
+displayname
+displayname
+----
+name-fullname
+untranslated
+name,fullname
+name,fullname
+----
+Name-Prefix
+untranslated
+Name Prefix
+Name Prefix
+----
+title-prefix
+untranslated
+title,prefix
+title,prefix
+----
+First-Name
+untranslated
+First Name
+First Name
+----
+firstname-namefirst-givenname
+untranslated
+firstname,namefirst,givenname
+firstname,namefirst,givenname
+----
+Middle-Name
+untranslated
+Middle Name
+Middle Name
+----
+middlename-namemiddle
+untranslated
+middlename,namemiddle
+middlename,namemiddle
+----
+Last-Name
+untranslated
+Last Name
+Last Name
+----
+lastname-namelast-surname
+untranslated
+lastname,namelast,surname
+lastname,namelast,surname
+----
+suffix
+untranslated
+suffix
+suffix
+----
+Name-Suffix
+untranslated
+Name Suffix
+Name Suffix
+----
+Nickname
+untranslated
+Nickname
+Nickname
+----
+nickname
+untranslated
+nickname
+nickname
+----
+Job-Title
+untranslated
+Job Title
+Job Title
+----
+jobtitle
+untranslated
+jobtitle
+jobtitle
+----
+Primary-E-mail
+untranslated
+Primary E-mail
+Primary E-mail
+----
+primaryemail-mainemail
+untranslated
+primaryemail,mainemail
+primaryemail,mainemail
+----
+E-mail-s-
+untranslated
+E-mail(s)
+E-mail(s)
+----
+8629c42e7335e1d5e090a1265948b38892fca6c5
+untranslated
+secondaryemail,email,emailaddress,businessemail,workemail
+secondaryemail,email,emailaddress,businessemail,workemail
+----
+Address-es-
+untranslated
+Address(es)
+Address(es)
+----
+Address
+untranslated
+Address
+Address
+----
+Business-Street
+untranslated
+Business Street
+Business Street
+----
+2ea329e4706099d58944cce982e1bd2e0c9bbbbe
+untranslated
+businessaddress,businessaddr,businessstreet,workstreet,companystreet
+businessaddress,businessaddr,businessstreet,workstreet,companystreet
+----
+Business-Street-2
+untranslated
+Business Street 2
+Business Street 2
+----
+6f1495bce2d3ed409185f81a268df4fc9bc6871c
+untranslated
+businessaddress2,businessaddr2,businessstreet2,workstreet2,companystreet2
+businessaddress2,businessaddr2,businessstreet2,workstreet2,companystreet2
+----
+Business-City
+untranslated
+Business City
+Business City
+----
+2f3797e44f8520d526d84d9f8ead707a72051a1d
+untranslated
+businesscity,workcity,companycity
+businesscity,workcity,companycity
+----
+Business-State
+untranslated
+Business State
+Business State
+----
+abdda1c7bca6a6ab26f86e066a64848102c7dead
+untranslated
+businessstate,workstate,companystate,businessprovince,workprovince,companyprovince,businessstateprovince,workstateprovince
+businessstate,workstate,companystate,businessprovince,workprovince,companyprovince,businessstateprovince,workstateprovince
+----
+Business-Postal-Code
+untranslated
+Business Postal Code
+Business Postal Code
+----
+ccea074e1aafce57e1a6c86305f9fb035489e76a
+untranslated
+businesspostalcode,workpostalcode,companypostalcode,businesszip,businesszippostalcode,workzip,workzippostalcode,companyzip,companyzippostalcode
+businesspostalcode,workpostalcode,companypostalcode,businesszip,businesszippostalcode,workzip,workzippostalcode,companyzip,companyzippostalcode
+----
+Business-Postal-Country
+untranslated
+Business Postal Country
+Business Postal Country
+----
+abb25e957fda0c1f097bd92f5ed570bb7359512c
+untranslated
+businesscountry,workcountry,companycountry,businesscountryregion,workcountryregion,companycountryregion
+businesscountry,workcountry,companycountry,businesscountryregion,workcountryregion,companycountryregion
+----
+Home-Street
+untranslated
+Home Street
+Home Street
+----
+homestreet-homeaddress-homeaddr
+untranslated
+homestreet,homeaddress,homeaddr
+homestreet,homeaddress,homeaddr
+----
+Home-Street-2
+untranslated
+Home Street 2
+Home Street 2
+----
+e2ea498307c76d24a2fa425911e2d7c9792af15e
+untranslated
+homestreet2,homeaddress2,homeaddr2
+homestreet2,homeaddress2,homeaddr2
+----
+Home-City
+untranslated
+Home City
+Home City
+----
+homecity
+untranslated
+homecity
+homecity
+----
+Home-State
+untranslated
+Home State
+Home State
+----
+ed07d42bd81004cc32d8e76d4f09271d3c89f24d
+untranslated
+homestate,homeprovince,homestateprovince
+homestate,homeprovince,homestateprovince
+----
+Home-Postal-Code
+untranslated
+Home Postal Code
+Home Postal Code
+----
+2c61ddecfcd7b247676daba7b7752e4adcfea7a3
+untranslated
+homepostalcode,homezip,homezippostalcode
+homepostalcode,homezip,homezippostalcode
+----
+Home-Country
+untranslated
+Home Country
+Home Country
+----
+homecountry-homecountryregion
+untranslated
+homecountry,homecountryregion
+homecountry,homecountryregion
+----
+Street
+untranslated
+Street
+Street
+----
+street-address1-addressline1
+untranslated
+street,address1,addressline1
+street,address1,addressline1
+----
+Street-2
+untranslated
+Street 2
+Street 2
+----
+street2-address2-addressline2
+untranslated
+street2,address2,addressline2
+street2,address2,addressline2
+----
+City
+untranslated
+City
+City
+----
+city
+untranslated
+City
+en-us|City
+----
+3251fc1c0042d90da5af4a61288477a2aa926aaa
+untranslated
+state,province,stateprovince,companystateprovince,usstatecaprovince
+state,province,stateprovince,companystateprovince,usstatecaprovince
+----
+Postal-Code
+untranslated
+Postal Code
+Postal Code
+----
+postalcode-zip-zippostalcode
+untranslated
+postalcode,zip,zippostalcode
+postalcode,zip,zippostalcode
+----
+Country
+untranslated
+Country
+Country
+----
+country-countryregion
+untranslated
+country,countryregion
+country,countryregion
+----
+Phone-Number-s-
+untranslated
+Phone Number(s)
+Phone Number(s)
+----
+Phone-Number
+untranslated
+Phone Number
+Phone Number
+----
+Home-Phone
+untranslated
+Home Phone
+Home Phone
+----
+homephone
+untranslated
+homephone
+homephone
+----
+Work-Phone
+untranslated
+Work Phone
+Work Phone
+----
+d319836ae680d4f0f053cbe13738482bef71fab0
+untranslated
+workphone,companyphone,businessphone
+workphone,companyphone,businessphone
+----
+Primary-Phone
+untranslated
+Primary Phone
+Primary Phone
+----
+phone-mainphone-primaryphone
+untranslated
+phone,mainphone,primaryphone
+phone,mainphone,primaryphone
+----
+Mobile-Phone
+untranslated
+Mobile Phone
+Mobile Phone
+----
+f2950b09866b7575ffe782381d42b2f428f2c28f
+untranslated
+mobilephone,mobilenumber,cellnumber,cellphone,homecell
+mobilephone,mobilenumber,cellnumber,cellphone,homecell
+----
+Home-Fax
+untranslated
+Home Fax
+Home Fax
+----
+homefax
+untranslated
+homefax
+homefax
+----
+Work-Fax
+untranslated
+Work Fax
+Work Fax
+----
+71a7cba5327786cff76ad0b3f29e48493c52585d
+untranslated
+fax,faxnumber,workfax,businessfax,companyfax
+fax,faxnumber,workfax,businessfax,companyfax
+----
+Emergency-Phone
+untranslated
+Emergency Phone
+Emergency Phone
+----
+78ae86821f4f3d7e9aabbd76aafd538c23343947
+untranslated
+emergencyphone,emergencynumber,emergencycontactnumber
+emergencyphone,emergencynumber,emergencycontactnumber
+----
+Gender
+untranslated
+Gender
+Gender
+----
+gender-sex
+untranslated
+gender,sex
+gender,sex
+----
+Unspecified
+untranslated
+Unspecified
+Unspecified
+----
+Male
+untranslated
+Male
+Male
+----
+Female
+untranslated
+Female
+Female
+----
+Birthdate
+untranslated
+Birthdate
+Birthdate
+----
+Age
+untranslated
+Age
+Age
+----
+age-aged
+untranslated
+age,aged
+age,aged
+----
+birthyear-yearofbirth
+untranslated
+birthyear,yearofbirth
+birthyear,yearofbirth
+----
+Birth-Month
+untranslated
+Birth Month
+Birth Month
+----
+birthmonth-yearofbirth
+untranslated
+birthmonth,yearofbirth
+birthmonth,yearofbirth
+----
+Birth-Day
+untranslated
+Birth Day
+Birth Day
+----
+541d9c529fbd9fa2d45fc44425b56a85e3ad049d
+untranslated
+birthdate,dob,dateofbirth,birthday,dayofbirth
+birthdate,dob,dateofbirth,birthday,dayofbirth
+----
+Web-Page
+untranslated
+Web Page
+Web Page
+----
+webpage-website-url-businessurl
+untranslated
+webpage,website,url,businessurl
+webpage,website,url,businessurl
+----
+Organization-Company
+untranslated
+Organization / Company
+Organization / Company
+----
+7847da933879755ec9712d0dff1999687a1d11ea
+untranslated
+businessname,companyname,business,company,organization
+businessname,companyname,business,company,organization
+----
+Groups
+untranslated
+Groups
+Groups
+----
+Group
+untranslated
+Group
+Group
+----
+Timezone
+untranslated
+Timezone
+Timezone
+----
+Local-Time
+untranslated
+Local Time
+Local Time
+----
+Created
+untranslated
+Created
+Created
+----
+Creation-Type
+untranslated
+Creation Type
+Creation Type
+----
+User-New
+untranslated
+User New
+User New
+----
+User-Import
+untranslated
+User Import
+User Import
+----
+Web-Chat
+untranslated
+Web Chat
+Web Chat
+----
+Web-Form
+untranslated
+Web Form
+Web Form
+----
+E-mail-Subscriber
+untranslated
+E-mail Subscriber
+E-mail Subscriber
+----
+Opted-In
+untranslated
+Opted In
+Opted In
+----
+Potential-Bad-Address
+untranslated
+Potential Bad Address
+Potential Bad Address
+----
+Manufacturers
+untranslated
+Manufacturers
+Manufacturers
+----
+Manufacturer
+untranslated
+Manufacturer
+Manufacturer
+----
+Organizations
+untranslated
+Organizations
+Organizations
+----
+Unknown
+untranslated
+Unknown
+Unknown
+----
+Business
+untranslated
+Business
+Business
+----
+Charity
+untranslated
+Charity
+Charity
+----
+Non-Profit
+untranslated
+Non Profit
+Non Profit
+----
+Sole-Proprietorship
+untranslated
+Sole Proprietorship
+Sole Proprietorship
+----
+School
+untranslated
+School
+School
+----
+Political
+untranslated
+Political
+Political
+----
+Club
+untranslated
+Club
+Club
+----
+Church
+untranslated
+Church
+Church
+----
+Band-Musician
+untranslated
+Band/Musician
+Band/Musician
+----
+Performing-Arts
+untranslated
+Performing Arts
+Performing Arts
+----
+Government-Agency
+untranslated
+Government Agency
+Government Agency
+----
+Prodcuts
+untranslated
+Prodcuts
+Prodcuts
+----
+Product
+untranslated
+Product
+Product
+----
+Tiny-Links
+untranslated
+Tiny Links
+Tiny Links
+----
+Tiny-Link
+untranslated
+Tiny Link
+Tiny Link
+----
+Link
+untranslated
+Link
+Link
+----
+Transaction-Categories
+untranslated
+Transaction Categories
+Transaction Categories
+----
+Transaction-Category
+untranslated
+Transaction Category
+Transaction Category
+----
+Mail-Accounts
+untranslated
+Mail Accounts
+Mail Accounts
+----
+Mail-Account
+untranslated
+Mail Account
+Mail Account
+----
+Home
+untranslated
+Home
+Home
+----
+Work
+untranslated
+Work
+Work
+----
+Shipping
+untranslated
+Shipping
+Shipping
+----
+Billing
+untranslated
+Billing
+Billing
+----
+Vacation
+untranslated
+Vacation
+Vacation
+----
+Address-2
+untranslated
+Address 2
+Address 2
+----
+State-Province
+untranslated
+State / Province
+State / Province
+----
+Delete
+untranslated
+Delete
+Delete
+----
+Signature-
+untranslated
+Signature...
+Signature...
+----
+RESET
+untranslated
+RESET
+RESET
+----
+USE
+untranslated
+USE
+USE
+----
+Cancel
+untranslated
+Cancel
+Cancel
+----
+Sign-Below
+untranslated
+Sign Below
+Sign Below
+----
+Incompatible-object-type-
+untranslated
+Incompatible object type (%%)
+Incompatible object type (%%)
+----
+da908533b08aa8ca09110558cbef1f3341f970fa
+untranslated
+Scanned item is not a YibblePoint object.
+Scanned item is not a YibblePoint object.
+----
+Pick-
+untranslated
+Pick...
+Pick...
+----
+d2bf34647fd0c451fbdab86fbd321c970961b4ac
+untranslated
+The %% '%%' does not exist, would you like to create it?
+The %% '%%' does not exist, would you like to create it?
+----
+Yes-create-it
+untranslated
+Yes, create it
+Yes, create it
+----
+94bc9e650eed60c003286148f81bba109bafe648
+untranslated
+%% '%%' has been created. Would you like to edit the details?
+%% '%%' has been created. Would you like to edit the details?
+----
+Yes-edit-it
+untranslated
+Yes, edit it
+Yes, edit it
+----
+Confirm-Password
+untranslated
+Confirm Password
+Confirm Password
+----
+Add-another-
+untranslated
+Add another %%
+Add another %%
+----
+Uploading-Image-
+untranslated
+Uploading Image...
+Uploading Image...
+----
+08ec219108971ed69f93d4d64b31aed9daea36f7
+untranslated
+%% is not an supported image format, please choose another file.
+en-us|%% is not an supported image format, please choose another file.
+----
+Main
+untranslated
+Main
+Main
+----
+Mobile
+untranslated
+Mobile
+Mobile
+----
+Pager
+untranslated
+Pager
+Pager
+----
+Emergency
+untranslated
+Emergency
+Emergency
+----
+Email-address-already-in-use-
+untranslated
+Email address already in use.
+Email address already in use.
+----
+d860558a82f935122303ae72a21350754beee053
+untranslated
+Contains a commonly used LE3T password
+Contains a commonly used LE3T password
+----
+Is-a-commonly-used-LE3T-password
+untranslated
+Is a commonly used LE3T password
+Is a commonly used LE3T password
+----
+Loading-
+untranslated
+Loading...
+Loading...
+----
+-Credit
+untranslated
+ Credit
+ Credit
+----
+sign-up
+untranslated
+Sign Up
+en-us|Sign Up
+----
+search
+untranslated
+SEARCH
+en-us|SEARCH
+----
+log-in
+untranslated
+Log In
+en-us|Log In
+----
+e-mail-or-log-in-name
+untranslated
+E-mail or Log In Name
+en-us|E-mail or Log In Name
+----
+password
+untranslated
+Password
+en-us|Password
+----
+facebook
+untranslated
+Facebook
+en-us|Facebook
+----
+twitter
+untranslated
+Twitter
+en-us|Twitter
+----
+name
+untranslated
+Name
+en-us|Name
+----
+e-mail
+untranslated
+E-mail
+en-us|E-mail
+----
+login-name
+untranslated
+Login Name
+en-us|Login Name
+----
+re-type-password
+untranslated
+Re-type Password
+en-us|Re-type Password
+----
+submit
+untranslated
+Submit
+en-us|Submit
+----
+n-a
+untranslated
+N/A
+en-us|N/A
+----
+start
+untranslated
+Start
+en-us|Start
+----
+logged-in-as
+untranslated
+Logged in as
+en-us|Logged in as
+----
+home
+untranslated
+Home
+en-us|Home
+----
+work
+untranslated
+Work
+en-us|Work
+----
+shipping
+untranslated
+Shipping
+en-us|Shipping
+----
+billing
+untranslated
+Billing
+en-us|Billing
+----
+vacation
+untranslated
+Vacation
+en-us|Vacation
+----
+country
+untranslated
+Country
+en-us|Country
+----
+address
+untranslated
+Address
+en-us|Address
+----
+address-2
+untranslated
+Address 2
+en-us|Address 2
+----
+state-province
+untranslated
+State / Province
+en-us|State / Province
+----
+postal-code
+untranslated
+Postal Code
+en-us|Postal Code
+----
+delete
+untranslated
+Delete
+en-us|Delete
+----
+signature-
+untranslated
+Signature...
+en-us|Signature...
+----
+reset
+untranslated
+RESET
+en-us|RESET
+----
+use
+untranslated
+USE
+en-us|USE
+----
+cancel
+untranslated
+Cancel
+en-us|Cancel
+----
+sign-below
+untranslated
+Sign Below
+en-us|Sign Below
+----
+incompatible-object-type-
+untranslated
+Incompatible object type (%%)
+en-us|Incompatible object type (%%)
+----
+d73eab573fb75eb0dd9bf4bc32c26d9e642a9ad1
+untranslated
+Scanned item is not a YibblePoint object.
+en-us|Scanned item is not a YibblePoint object.
+----
+pick-
+untranslated
+Pick...
+en-us|Pick...
+----
+4246626f43774ca85921a451af642f71b87fe857
+untranslated
+The %% '%%' does not exist, would you like to create it?
+en-us|The %% '%%' does not exist, would you like to create it?
+----
+yes-create-it
+untranslated
+Yes, create it
+en-us|Yes, create it
+----
+no
+untranslated
+No
+en-us|No
+----
+0a7194866c8c6b1652ebdde37dfe972d54122337
+untranslated
+%% '%%' has been created. Would you like to edit the details?
+en-us|%% '%%' has been created. Would you like to edit the details?
+----
+yes-edit-it
+untranslated
+Yes, edit it
+en-us|Yes, edit it
+----
+confirm-password
+untranslated
+Confirm Password
+en-us|Confirm Password
+----
+add-another-
+untranslated
+Add another %%
+en-us|Add another %%
+----
+uploading-image-
+untranslated
+Uploading Image...
+en-us|Uploading Image...
+----
+main
+untranslated
+Main
+en-us|Main
+----
+mobile
+untranslated
+Mobile
+en-us|Mobile
+----
+home-fax
+untranslated
+Home Fax
+en-us|Home Fax
+----
+work-fax
+untranslated
+Work Fax
+en-us|Work Fax
+----
+pager
+untranslated
+Pager
+en-us|Pager
+----
+emergency
+untranslated
+Emergency
+en-us|Emergency
+----
+feec2b2347d607ed3081840d1b970af306933dc2
+untranslated
+Please fix the highlighted problems first.
+en-us|Please fix the highlighted problems first.
+----
+cannot-be-empty
+untranslated
+Cannot be empty
+en-us|Cannot be empty
+----
+more-than-one-address-listed
+untranslated
+More than one address listed
+en-us|More than one address listed
+----
+use-one-address
+untranslated
+Use one address
+en-us|Use one address
+----
+e-mail-too-long
+untranslated
+E-mail too long
+en-us|E-mail too long
+----
+ec69649ab0942115e0084b7ab641cc71bb771ad6
+untranslated
+Shorten to 255 characters or less.
+Shorten to 255 characters or less.
+----
+spaces-in-e-mail-address
+untranslated
+Spaces in E-mail address
+en-us|Spaces in E-mail address
+----
+remove-spaces-
+untranslated
+Remove spaces.
+en-us|Remove spaces.
+----
+one-symbol-required
+untranslated
+One @ symbol required
+en-us|One @ symbol required
+----
+add-the-symbol
+untranslated
+Add the @ symbol
+en-us|Add the @ symbol
+----
+only-one-symbol-allowed
+untranslated
+Only one @ symbol allowed
+en-us|Only one @ symbol allowed
+----
+remove-extra-symbols
+untranslated
+Remove extra @ symbols
+en-us|Remove extra @ symbols
+----
+no-domain-specified
+untranslated
+No domain specified
+en-us|No domain specified
+----
+add-domain-after-the-symbol
+untranslated
+Add domain after the @ symbol
+en-us|Add domain after the @ symbol
+----
+local-part-too-long
+untranslated
+Local part too long
+en-us|Local part too long
+----
+cannot-start-with-dot-
+untranslated
+Cannot start with dot (.)
+en-us|Cannot start with dot (.)
+----
+remove-the-dot
+untranslated
+Remove the dot
+en-us|Remove the dot
+----
+dot-cannot-come-before-symbol
+untranslated
+Dot (.) cannot come before @ symbol
+en-us|Dot (.) cannot come before @ symbol
+----
+invalid-character-s-
+untranslated
+Invalid character(s)
+en-us|Invalid character(s)
+----
+remove-the-invalid-character-s-
+untranslated
+Remove the invalid character(s)
+en-us|Remove the invalid character(s)
+----
+af98f950067cc313011abc8fd7317a931d6d5eff
+untranslated
+Two or more dots (..) in a row not allowed
+Two or more dots (..) in a row not allowed
+----
+remove-the-extra-dot-s-
+untranslated
+Remove the extra dot(s)
+en-us|Remove the extra dot(s)
+----
+email-address-already-in-use-
+untranslated
+Email address already in use.
+en-us|Email address already in use.
+----
+99ba28426b88aafd63e8e70b2c3952da380bfbe2
+untranslated
+Only letters, numbers and underscores allowed
+en-us|Only letters, numbers and underscores allowed
+----
+user-name-already-taken-
+untranslated
+User Name already taken.
+en-us|User Name already taken.
+----
+too-short
+untranslated
+Too short
+en-us|Too short
+----
+d488011912d6f970d6c947d0434320dcb8c428ed
+untranslated
+Contains a commonly used password
+Contains a commonly used password
+----
+is-a-commonly-used-password
+untranslated
+Is a commonly used password
+en-us|Is a commonly used password
+----
+16c0ea8bf842bb8e85467b5e1113b0542366ea6c
+untranslated
+A password of this length should contain 
+en-us|A password of this length should contain 
+----
+ends-in-a-number
+untranslated
+Ends in a number
+en-us|Ends in a number
+----
+e1bb8245dfbdb5be26a24365ea5d8589bab588f8
+untranslated
+Contains a commonly used LE3T password
+Contains a commonly used LE3T password
+----
+is-a-commonly-used-le3t-password
+untranslated
+Is a commonly used LE3T password
+en-us|Is a commonly used LE3T password
+----
+4ed693994e5ca679d64f9c0434fb81fe4d81c27b
+untranslated
+• You're close, make a bit longer.
+• You're close, make a bit longer.
+----
+password-strength-
+untranslated
+Password strength 
+en-us|Password strength 
+----
+passwords-don-t-match-
+untranslated
+Passwords don't match.
+en-us|Passwords don't match.
+----
+-st-rd-th-r
+untranslated
+(st|rd|th)?
+en-us|(st|rd|th)?
+----
+date
+untranslated
+Date
+en-us|Date
+----
+time
+untranslated
+Time
+en-us|Time
+----
+loading-
+untranslated
+Loading...
+en-us|Loading...
+----
+-credit
+untranslated
+ Credit
+en-us| Credit
+----
+century
+untranslated
+Century
+en-us|Century
+----
+centuries
+untranslated
+Centuries
+en-us|Centuries
+----
+year
+untranslated
+Year
+en-us|Year
+----
+years
+untranslated
+Years
+en-us|Years
+----
+day
+untranslated
+Day
+en-us|Day
+----
+days
+untranslated
+Days
+en-us|Days
+----
+hour
+untranslated
+Hour
+en-us|Hour
+----
+hours
+untranslated
+Hours
+en-us|Hours
+----
+minute
+untranslated
+Minute
+en-us|Minute
+----
+minutes
+untranslated
+Minutes
+en-us|Minutes
+----
+second
+untranslated
+Second
+en-us|Second
+----
+seconds
+untranslated
+Seconds
+en-us|Seconds
+----
+millisecond
+untranslated
+Millisecond
+en-us|Millisecond
+----
+milliseconds
+untranslated
+Milliseconds
+en-us|Milliseconds
+----
+none
+untranslated
+None
+en-us|None
+----
+shorten-to-255-characters-or-less-
+untranslated
+Shorten to 255 characters or less.
+en-us|Shorten to 255 characters or less.
+----
+two-or-more-dots-in-a-row-not-allowed
+untranslated
+Two or more dots (..) in a row not allowed
+en-us|Two or more dots (..) in a row not allowed
+----
+contains-a-commonly-used-password
+untranslated
+Contains a commonly used password
+en-us|Contains a commonly used password
+----
+contains-a-commonly-used-le3t-password
+untranslated
+Contains a commonly used LE3T password
+en-us|Contains a commonly used LE3T password
+----
+r-you-re-close-make-a-bit-longer-
+untranslated
+• You're close, make a bit longer.
+en-us|• You're close, make a bit longer.
+----
+users
+untranslated
+Users
+Users
+----
+user
+untranslated
+User
+User
+----
+image
+untranslated
+Image
+Image
+----
+permissions
+untranslated
+Permissions
+Permissions
+----
+admin
+untranslated
+Admin
+Admin
+----
+user-admin
+untranslated
+User Admin
+User Admin
+----
+crm
+untranslated
+CRM
+CRM
+----
+office
+untranslated
+Office
+Office
+----
+397fad0ac3af5060c6764cebd5b59a3cf102df7c
+untranslated
+The parent account cannot deselect admin permission.
+The parent account cannot deselect admin permission.
+----
+blast-queue
+untranslated
+Blast Queue
+Blast Queue
+----
+blast-queue-item
+untranslated
+Blast Queue Item
+Blast Queue Item
+----
+contact
+untranslated
+Contact
+Contact
+----
+blast
+untranslated
+Blast
+Blast
+----
+state
+untranslated
+State
+State
+----
+queued
+untranslated
+Queued
+Queued
+----
+sent
+untranslated
+Sent
+Sent
+----
+send-failed
+untranslated
+Send Failed
+Send Failed
+----
+fail-bounce-back
+untranslated
+Fail: Bounce Back
+Fail: Bounce Back
+----
+flags
+untranslated
+Flags
+Flags
+----
+viewed
+untranslated
+Viewed
+Viewed
+----
+clicked
+untranslated
+Clicked
+Clicked
+----
+failed
+untranslated
+Failed
+Failed
+----
+unsubscribed
+untranslated
+Unsubscribed
+Unsubscribed
+----
+campaign-components
+untranslated
+Campaign Components
+Campaign Components
+----
+campaign-component
+untranslated
+Campaign Component
+Campaign Component
+----
+type
+untranslated
+Type
+Type
+----
+e-mail-blast
+untranslated
+E-mail Blast
+E-mail Blast
+----
+status
+untranslated
+Status
+Status
+----
+new
+untranslated
+New
+New
+----
+sending
+untranslated
+Sending
+Sending
+----
+cost
+untranslated
+Cost
+Cost
+----
+revenue
+untranslated
+Revenue
+Revenue
+----
+views
+untranslated
+Views
+Views
+----
+clicks
+untranslated
+Clicks
+Clicks
+----
+rejections
+untranslated
+Rejections
+Rejections
+----
+basic-info
+untranslated
+Basic Info
+Basic Info
+----
+edit
+untranslated
+Edit
+Edit
+----
+campaigns
+untranslated
+Campaigns
+Campaigns
+----
+campaign
+untranslated
+Campaign
+Campaign
+----
+organization-s-
+untranslated
+Organization(s)
+Organization(s)
+----
+organization
+untranslated
+Organization
+Organization
+----
+contacts
+untranslated
+Contacts
+Contacts
+----
+name-prefix
+untranslated
+Name Prefix
+Name Prefix
+----
+first-name
+untranslated
+First Name
+First Name
+----
+middle-name
+untranslated
+Middle Name
+Middle Name
+----
+last-name
+untranslated
+Last Name
+Last Name
+----
+name-suffix
+untranslated
+Name Suffix
+Name Suffix
+----
+job-title
+untranslated
+Job Title
+Job Title
+----
+primary-e-mail
+untranslated
+Primary E-mail
+Primary E-mail
+----
+e-mail-s-
+untranslated
+E-mail(s)
+E-mail(s)
+----
+address-es-
+untranslated
+Address(es)
+Address(es)
+----
+business-street
+untranslated
+Business Street
+Business Street
+----
+business-street-2
+untranslated
+Business Street 2
+Business Street 2
+----
+business-city
+untranslated
+Business City
+Business City
+----
+businesscity-workcity-companycity
+untranslated
+businesscity,workcity,companycity
+businesscity,workcity,companycity
+----
+business-state
+untranslated
+Business State
+Business State
+----
+business-postal-code
+untranslated
+Business Postal Code
+Business Postal Code
+----
+business-postal-country
+untranslated
+Business Postal Country
+Business Postal Country
+----
+home-street
+untranslated
+Home Street
+Home Street
+----
+home-street-2
+untranslated
+Home Street 2
+Home Street 2
+----
+homestreet2-homeaddress2-homeaddr2
+untranslated
+homestreet2,homeaddress2,homeaddr2
+homestreet2,homeaddress2,homeaddr2
+----
+home-city
+untranslated
+Home City
+Home City
+----
+home-state
+untranslated
+Home State
+Home State
+----
+homestate-homeprovince-homestateprovince
+untranslated
+homestate,homeprovince,homestateprovince
+homestate,homeprovince,homestateprovince
+----
+home-postal-code
+untranslated
+Home Postal Code
+Home Postal Code
+----
+homepostalcode-homezip-homezippostalcode
+untranslated
+homepostalcode,homezip,homezippostalcode
+homepostalcode,homezip,homezippostalcode
+----
+home-country
+untranslated
+Home Country
+Home Country
+----
+street
+untranslated
+Street
+Street
+----
+street-2
+untranslated
+Street 2
+Street 2
+----
+phone-number-s-
+untranslated
+Phone Number(s)
+Phone Number(s)
+----
+phone-number
+untranslated
+Phone Number
+Phone Number
+----
+home-phone
+untranslated
+Home Phone
+Home Phone
+----
+work-phone
+untranslated
+Work Phone
+Work Phone
+----
+workphone-companyphone-businessphone
+untranslated
+workphone,companyphone,businessphone
+workphone,companyphone,businessphone
+----
+primary-phone
+untranslated
+Primary Phone
+Primary Phone
+----
+mobile-phone
+untranslated
+Mobile Phone
+Mobile Phone
+----
+emergency-phone
+untranslated
+Emergency Phone
+Emergency Phone
+----
+gender
+untranslated
+Gender
+Gender
+----
+unspecified
+untranslated
+Unspecified
+Unspecified
+----
+male
+untranslated
+Male
+Male
+----
+female
+untranslated
+Female
+Female
+----
+birthdate
+untranslated
+Birthdate
+Birthdate
+----
+age
+untranslated
+Age
+Age
+----
+birth-month
+untranslated
+Birth Month
+Birth Month
+----
+birth-day
+untranslated
+Birth Day
+Birth Day
+----
+web-page
+untranslated
+Web Page
+Web Page
+----
+organization-company
+untranslated
+Organization / Company
+Organization / Company
+----
+groups
+untranslated
+Groups
+Groups
+----
+group
+untranslated
+Group
+Group
+----
+timezone
+untranslated
+Timezone
+Timezone
+----
+local-time
+untranslated
+Local Time
+Local Time
+----
+created
+untranslated
+Created
+Created
+----
+creation-type
+untranslated
+Creation Type
+Creation Type
+----
+user-new
+untranslated
+User New
+User New
+----
+user-import
+untranslated
+User Import
+User Import
+----
+web-chat
+untranslated
+Web Chat
+Web Chat
+----
+web-form
+untranslated
+Web Form
+Web Form
+----
+e-mail-subscriber
+untranslated
+E-mail Subscriber
+E-mail Subscriber
+----
+sign-up-for-a-yibblepoint-account
+untranslated
+Sign Up for a ¥ibblePoint account
+en-us|Sign Up for a ¥ibblePoint account
+----
+-
+untranslated
+--
+en-us|--
+----
+mail-accounts
+untranslated
+Mail Accounts
+Mail Accounts
+----
+mail-account
+untranslated
+Mail Account
+Mail Account
+----
+opted-in
+untranslated
+Opted In
+Opted In
+----
+potential-bad-address
+untranslated
+Potential Bad Address
+Potential Bad Address
+----
+manufacturers
+untranslated
+Manufacturers
+en-us|Manufacturers
+----
+manufacturer
+untranslated
+Manufacturer
+en-us|Manufacturer
+----
+organizations
+untranslated
+Organizations
+en-us|Organizations
+----
+unknown
+untranslated
+Unknown
+en-us|Unknown
+----
+business
+untranslated
+Business
+en-us|Business
+----
+charity
+untranslated
+Charity
+en-us|Charity
+----
+non-profit
+untranslated
+Non Profit
+en-us|Non Profit
+----
+sole-proprietorship
+untranslated
+Sole Proprietorship
+en-us|Sole Proprietorship
+----
+school
+untranslated
+School
+en-us|School
+----
+political
+untranslated
+Political
+en-us|Political
+----
+club
+untranslated
+Club
+en-us|Club
+----
+church
+untranslated
+Church
+en-us|Church
+----
+band-musician
+untranslated
+Band/Musician
+en-us|Band/Musician
+----
+performing-arts
+untranslated
+Performing Arts
+en-us|Performing Arts
+----
+government-agency
+untranslated
+Government Agency
+en-us|Government Agency
+----
+prodcuts
+untranslated
+Prodcuts
+en-us|Prodcuts
+----
+product
+untranslated
+Product
+en-us|Product
+----
+tiny-links
+untranslated
+Tiny Links
+en-us|Tiny Links
+----
+tiny-link
+untranslated
+Tiny Link
+en-us|Tiny Link
+----
+link
+untranslated
+Link
+en-us|Link
+----
+transaction-categories
+untranslated
+Transaction Categories
+en-us|Transaction Categories
+----
+transaction-category
+untranslated
+Transaction Category
+en-us|Transaction Category
+----
+invalid-log-in-name-or-password-
+untranslated
+Invalid log in name or password.
+en-us|Invalid log in name or password.
+----
+click-to-log-out-logged-in-as-
+untranslated
+Click to log out. Logged in as %%.
+en-us|Click to log out. Logged in as %%.
+----
+contact-management
+untranslated
+Contact Management
+en-us|Contact Management
+----
+transactions
+untranslated
+Transactions
+en-us|Transactions
+----
+tasks
+untranslated
+Tasks
+en-us|Tasks
+----
+chat
+untranslated
+Chat
+en-us|Chat
+----
+task-widget
+untranslated
+Task Widget
+en-us|Task Widget
+----
+marketing
+untranslated
+Marketing
+en-us|Marketing
+----
+items
+untranslated
+Items
+en-us|Items
+----
+log-out
+untranslated
+Log Out
+en-us|Log Out
+----
+logged-in-as-cartlemmy-
+untranslated
+Logged in as cartlemmy.
+en-us|Logged in as cartlemmy.
+----
+the-page-cannot-be-found-
+untranslated
+The page '%%' cannot be found.
+en-us|The page '%%' cannot be found.
+----
+page-not-found
+untranslated
+Page Not Found
+en-us|Page Not Found
+----
+db65d9e12cd183a817a5aec3cfb0159c01d0cc8f
+untranslated
+Perhaps one of the below pages contains what you were looking for:
+en-us|Perhaps one of the below pages contains what you were looking for:
+----
+results-for-
+untranslated
+Results for '%%'.
+en-us|Results for '%%'.
+----
+woobah
+untranslated
+Woobah
+en-us|Woobah
+----
+linkedin
+untranslated
+linkedin
+en-us|linkedin
+----
+a1ff0d7cf12b73476e89071da6f4a2e3c1ce9d0b
+untranslated
+You do not have permission to open this app.\n\nNeeds Permission(s): %%\nApp: %%
+en-us|You do not have permission to open this app.\n\nNeeds Permission(s): %%\nApp: %%
+----
+html-file-not-found-
+untranslated
+HTML file not found.
+en-us|HTML file not found.
+----
+get-info
+untranslated
+Get Info
+en-us|Get Info
+----
+save
+untranslated
+Save
+en-us|Save
+----
+saving
+untranslated
+Saving
+en-us|Saving
+----
+saved
+untranslated
+Saved
+en-us|Saved
+----
+89f0b8db83028604a833168e395c8525cc13970f
+untranslated
+%% has unsaved changes, Do you want to save before closing?
+en-us|%% has unsaved changes, Do you want to save before closing?
+----
+yes
+untranslated
+Yes
+en-us|Yes
+----
+close
+untranslated
+Close
+en-us|Close
+----
+3903d385b70f278a2122fd239ebc3157dcc92f18
+untranslated
+Scan this QR code to login with your mobile device.
+en-us|Scan this QR code to login with your mobile device.
+----
+logged-in-via-mobile-pass-
+untranslated
+Logged in via mobile pass.
+en-us|Logged in via mobile pass.
+----
+cannot-be-blank-
+untranslated
+Cannot be blank.
+en-us|Cannot be blank.
+----
+attempting-log-in-
+untranslated
+Attempting Log In...
+en-us|Attempting Log In...
+----
+success-
+untranslated
+Success.
+en-us|Success.
+----
+you-are-already-logged-in-
+untranslated
+You are already logged in.
+en-us|You are already logged in.
+----
+incorrect-log-in-name-or-password-
+untranslated
+Incorrect Log In Name or Password.
+en-us|Incorrect Log In Name or Password.
+----
+7284bd6404a17b1958803695bf29eaf560c2fd3e
+untranslated
+Someone is logged in as '%%' on another machine, device, or browser.
+en-us|Someone is logged in as '%%' on another machine, device, or browser.
+----
+log-in-failed-
+untranslated
+Log in failed.
+en-us|Log in failed.
+----
+chat-request
+untranslated
+Chat Request
+en-us|Chat Request
+----
+chat-requested-nfrom-nclick-to-answer
+untranslated
+Chat Requested\nFrom %%\nClick to answer
+en-us|Chat Requested\nFrom %%\nClick to answer
+----
+chat-request-answered
+untranslated
+Chat request answered
+en-us|Chat request answered
+----
+requester-has-disconnected
+untranslated
+Requester has disconnected
+en-us|Requester has disconnected
+----
+select-
+untranslated
+Select %%
+en-us|Select %%
+----
+qr-5159-
+untranslated
+QR (5159)
+en-us|QR (5159)
+----
+barcode-5160-
+untranslated
+Barcode (5160)
+en-us|Barcode (5160)
+----
+print-labels
+untranslated
+Print Labels
+en-us|Print Labels
+----
+all
+untranslated
+All
+en-us|All
+----
+add-to-group
+untranslated
+Add To Group
+en-us|Add To Group
+----
+remove-from-group
+untranslated
+Remove From Group
+en-us|Remove From Group
+----
+other-
+untranslated
+Other...
+en-us|Other...
+----
+add-
+untranslated
+Add %%...
+en-us|Add %%...
+----
+remove-
+untranslated
+Remove %%...
+en-us|Remove %%...
+----
+set-to-
+untranslated
+Set %% to...
+en-us|Set %% to...
+----
+-new
+untranslated
++ New
+en-us|+ New
+----
+manage
+untranslated
+Manage
+en-us|Manage
+----
+import-
+untranslated
+Import...
+en-us|Import...
+----
+export-
+untranslated
+Export...
+en-us|Export...
+----
+report-
+untranslated
+Report...
+en-us|Report...
+----
+show
+untranslated
+Show
+en-us|Show
+----
+there-is-no-results-
+untranslated
+There is no results.
+en-us|There is no results.
+----
+check-all
+untranslated
+Check All
+en-us|Check All
+----
+uncheck-all
+untranslated
+Uncheck All
+en-us|Uncheck All
+----
+check-all-in-view
+untranslated
+Check All In View
+en-us|Check All In View
+----
+uncheck-all-in-view
+untranslated
+Uncheck All In View
+en-us|Uncheck All In View
+----
+do-with-checked
+untranslated
+Do With Checked
+en-us|Do With Checked
+----
+deleting
+untranslated
+deleting
+en-us|deleting
+----
+add-to
+untranslated
+add to
+en-us|add to
+----
+adding-to
+untranslated
+adding to
+en-us|adding to
+----
+set
+untranslated
+set
+en-us|set
+----
+setting
+untranslated
+setting
+en-us|setting
+----
+remove-from
+untranslated
+remove from
+en-us|remove from
+----
+removing-from
+untranslated
+removing from
+en-us|removing from
+----
+207645648c249d6b1516f8283e0b4a3729ba3bda
+untranslated
+Which %% would you like to add to the checked %%?
+en-us|Which %% would you like to add to the checked %%?
+----
+are-you-sure-you-want-to-the-checked-r
+untranslated
+Are you sure you want to %% the checked %%?
+en-us|Are you sure you want to %% the checked %%?
+----
+search-for-
+untranslated
+Search for '%%'
+en-us|Search for '%%'
+----
+there-is-no-results-for-the-search-
+untranslated
+There is no results for the search '%%'.
+en-us|There is no results for the search '%%'.
+----
+create
+untranslated
+Create
+en-us|Create
+----
+new-
+untranslated
+New 
+en-us|New
+----
+edit-
+untranslated
+Edit 
+en-us|Edit
+----
+-or-
+untranslated
+ or 
+en-us| or
+----
+-and-
+untranslated
+ and 
+en-us| and
+----
+-required-
+untranslated
+%% required.
+en-us|%% required.
+----
+error
+untranslated
+Error
+en-us|Error
+----
+-not-found-
+untranslated
+%% not found.
+en-us|%% not found.
+----
+m
+untranslated
+m
+en-us|m
+----
+man
+untranslated
+man
+en-us|man
+----
+f
+untranslated
+f
+en-us|f
+----
+woman
+untranslated
+woman
+en-us|woman
+----
+results-for-your-search-
+untranslated
+Results for your search:
+en-us|Results for your search:
+----
+game-test
+untranslated
+Game Test
+en-us|Game Test
+----
+level
+untranslated
+Level
+en-us|Level
+----
+tilesets
+untranslated
+Tilesets
+en-us|Tilesets
+----
+-add-tileset
+untranslated
++ Add Tileset
+en-us|+ Add Tileset
+----
+tileset-source
+untranslated
+Tileset Source
+en-us|Tileset Source
+----
+depth
+untranslated
+Depth
+en-us|Depth
+----
+order
+untranslated
+Order
+en-us|Order
+----
+width
+untranslated
+Width
+en-us|Width
+----
+height
+untranslated
+Height
+en-us|Height
+----
+layers
+untranslated
+Layers
+en-us|Layers
+----
+-add-layer
+untranslated
++ Add layer
+en-us|+ Add layer
+----
+config-encrypt
+untranslated
+Config Encrypt
+en-us|Config Encrypt
+----
+translations
+untranslated
+Translations
+en-us|Translations
+----
+barcode-scanner
+untranslated
+Barcode Scanner
+en-us|Barcode Scanner
+----
+site-management
+untranslated
+Site Management
+en-us|Site Management
+----
+site-editor
+untranslated
+Site Editor
+en-us|Site Editor
+----
+f08e9a3b6cd3f843ee6d5ae38172727461c16c55
+untranslated
+
+<fieldset>
+	<label for="user">Ref</label>
+	<input type="text" value="?">
+</fieldset>
+
+<fieldset>
+	<label for="user">Link</label>
+	<input type="text" value="http://192.168.0.100/YibblePoint/sl/?">
+</fieldset>
+
+<fieldset>
+	<label for="user">Short Link</label>
+	<input type="text" value="http://192.168.0.100/YibblePoint/?1Q">
+</fieldset>
+
+<fieldset>
+	<label for="user">QR Link</label>
+	<img src="http://192.168.0.100/YibblePoint/sl/tiny.qr.png?1Q">
+</fieldset>
+
+<fieldset>
+	<label for="user">Internal QR</label>
+	<img src="http://192.168.0.100/YibblePoint/qr.png?1Q">
+</fieldset>
+
+<fieldset>
+	<label for="user">Barcode</label>
+	<img src="http://192.168.0.100/YibblePoint/barcode.png?90">
+</fieldset>
+
+en-us|
+<fieldset>
+	<label for="user">Ref</label>
+	<input type="text" value="?">
+</fieldset>
+
+<fieldset>
+	<label for="user">Link</label>
+	<input type="text" value="http://192.168.0.100/YibblePoint/sl/?">
+</fieldset>
+
+<fieldset>
+	<label for="user">Short Link</label>
+	<input type="text" value="http://192.168.0.100/YibblePoint/?1Q">
+</fieldset>
+
+<fieldset>
+	<label for="user">QR Link</label>
+	<img src="http://192.168.0.100/YibblePoint/sl/tiny.qr.png?1Q">
+</fieldset>
+
+<fieldset>
+	<label for="user">Internal QR</label>
+	<img src="http://192.168.0.100/YibblePoint/qr.png?1Q">
+</fieldset>
+
+<fieldset>
+	<label for="user">Barcode</label>
+	<img src="http://192.168.0.100/YibblePoint/barcode.png?90">
+</fieldset>

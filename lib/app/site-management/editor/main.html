@@ -1,0 +1,73 @@
+<div class="sizeable-layout" id="siteEditorFrames" data-orientation="vertical">
+	<div>
+		<div id="pages" class="foldable-section" data-title="en-us|Pages"></div>
+	</div>
+	<div>
+		<div class="tabbed" data-fit-parent="1">
+			<section title="en-us|Info">
+				<fieldset style="float:left">
+					<label>en-us|Title</label>
+					<input id="title" type="text">
+				</fieldset>
+				
+				<fieldset style="float:left">
+					<label>en-us|URL Name</label>
+					<input id="urlName" type="text">
+				</fieldset>
+				
+				<!--<fieldset style="float:left">
+					<label>en-us|Order</label>
+						<input id="order" type="text">
+				</fieldset>-->
+				
+				<fieldset style="float:left">
+					<label><input type="checkbox" id="showInNav">en-us|Show in Navigation</label>
+				</fieldset>
+								
+				<fieldset style="float:left">
+					<label>en-us|Parent Page</label>
+					<select id="parent"></select>
+				</fieldset>
+				
+				<button id="del">en-us|Delete This Page</button>
+			</section>
+			<section title="en-us|Content Source">
+				<textarea id="source" style="width:99%;height:99%;"></textarea>
+			</section>
+			<section title="en-us|Tags">
+				<fieldset style="float:left">
+					<label>en-us|Title Tag</label>
+					<input id="titleTag" type="text">
+				</fieldset>
+				
+				<fieldset style="float:left">
+					<label>en-us|Meta Description</label>
+					<textarea id="description" style="height:200px;"></textarea>
+				</fieldset>
+				
+				<div class="cb"></div>
+				
+				<h3>OG Tags</h3>
+				<fieldset style="float:left">
+					<label>en-us|og:title</label>
+					<input id="meta.og:title" type="text">
+				</fieldset>
+
+				<fieldset style="float:left">
+					<label>en-us|og:description</label>
+					<textarea id="meta.og:description" style="height:200px;"></textarea>
+				</fieldset>
+				
+				<fieldset id="meta.og:type" style="float:left" data-n="meta.og:type" data-field="select" data-label="en-us|og:type" data-options="=Select One...,article,book,profile,website,music.song,music.album,music.playlist,music.radio_station,video.movie,video.episode,video.tv_show,video.other"></fieldset>
+				
+				<fieldset id="meta.og:image" style="float:left" data-n="meta.og:image" data-field="image" data-label="en-us|og:image"></fieldset>
+				
+			</section>
+			<section id="history" title="en-us|History">
+			</section>
+		</div>
+	</div>
+	<div>
+		<iframe id="preview" style="border:none;width:100%;height:100%;"></iframe>
+	</div>
+</div>

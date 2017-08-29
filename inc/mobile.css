@@ -1,0 +1,30 @@
+fieldset {
+	margin:10px 0px 10px 0px;
+	padding:0;
+	width:100%;
+	border:none;
+}
+
+input[type=text], input[type=password], input[type=color],
+input[type=email], input[type=month], input[type=number],
+input[type=range], input[type=tel], input[type=time], input[type=url],
+input[type=week] {
+	width:99%;
+	font-size:18px;
+}
+
+select, button, input[type=submit] {
+	font-size:18px;
+}
+
+.sl-view-inner.tools, .sl-view-inner-maximized.tools {
+	margin-top:32px;
+}
+
+.sl-view-tool {
+	top:4px;
+}
+
+td, .scroller-row>div {
+	padding:8px 6px 8px 6px;
+}

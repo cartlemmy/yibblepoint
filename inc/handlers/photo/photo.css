@@ -1,0 +1,67 @@
+.photo-button {
+	position:absolute;
+	top:0px;
+	bottom:0px;
+	width:100px;
+	cursor:pointer;
+}
+
+.photo-button>div {
+	position:absolute;
+	top:45%;
+	width:100px;
+	height:100px;
+	font-size:80px;
+	text-align:center;
+}
+
+.photo {
+	position:relative;
+	height:120px;
+	float:left;
+	border:1px solid #DDD;
+	padding:4px;
+	margin:8px;
+}
+
+.photo>a>img {
+	height:120px;
+}
+
+.photo>label {
+	position:absolute;
+	left:6px;
+	bottom:4px;
+	width:100%;
+	text-shadow:
+		0px 1px 2px #FFF,
+		1px 0px 2px #FFF,
+		-1px 0px 2px #FFF,
+		0px -1px 2px #FFF;
+}
+
+.selected {
+	border:1px solid #F90;
+	background-color:#FF0;
+}
+
+.fspot-thumb {
+	float:left;
+	border:1px solid #CCC;
+	background-color:#EEE;
+	border-radius:4px;
+	padding:2px;
+	margin:4px;	
+}
+
+.fspot-thumb>img {
+	width:48px;
+	height:48px;
+	float:left;
+}
+
+.fspot-thumb>label {
+	margin-left:4px;
+	display:block;
+	float:right;
+}

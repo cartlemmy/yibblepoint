@@ -1,0 +1,7 @@
+{
+	"name":"en-us|Survey",
+	"version":"0.0",
+	"usesPersistentAppData":false,
+	"permissions":{},
+	"noMenu":true
+}

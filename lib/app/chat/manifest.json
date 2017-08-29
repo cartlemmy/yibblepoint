@@ -1,0 +1,9 @@
+{
+	"name":"en-us|Chat",
+	"version":"0.0",
+	"usesPersistentAppData":true,
+	"permissions":["user"],
+	"noMenu":true,
+	"singleInstance":true,
+	"startWidth":340
+}

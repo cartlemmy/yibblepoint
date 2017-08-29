@@ -1,0 +1,7 @@
+{
+	"name":"en-us|NibbleSearch Test",
+	"version":"0.0",
+	"usesPersistentAppData":false,
+	"permissions":{},
+	"coreApp":true
+}

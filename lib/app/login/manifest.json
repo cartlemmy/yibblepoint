@@ -1,0 +1,8 @@
+{
+	"name":"en-us|Log In",
+	"version":"0.0",
+	"usesPersistentAppData":false,
+	"permissions":{},
+	"noMenu":true,
+	"coreApp":true
+}

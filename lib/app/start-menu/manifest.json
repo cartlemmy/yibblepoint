@@ -1,0 +1,9 @@
+{
+	"name":"en-us|Start Menu",
+	"version":"0.0",
+	"usesPersistentAppData":false,
+	"permissions":[],
+	"noClose":true,
+	"noMenu":true,
+	"coreApp":true
+}

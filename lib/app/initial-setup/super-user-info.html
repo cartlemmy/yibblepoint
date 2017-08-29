@@ -1,0 +1,45 @@
+<section>
+	<h3>en-us|Super User Info</h3>
+	<fieldset>
+	<label for="name">en-us|Full Name</label>
+	<input type="text" id="name" data-validate="not-empty" data-field="text">
+	</fieldset>
+	
+	<fieldset>
+	<label for="user">en-us|Login Name</label>
+	<input type="text" id="user" data-validate="not-empty,user" data-field="text">
+	</fieldset>
+	
+	<fieldset>
+	<label for="email">en-us|E-mail</label>
+	<input type="text" id="email" data-validate="not-empty,email" data-field="email">
+	</fieldset>
+	
+	<fieldset>
+	<label for="password">en-us|Password</label>
+	<input type="password" id="password" data-validate="password" data-field="password">
+	</fieldset>
+
+	<fieldset>
+	<label for="confPassword">en-us|Re-type Password</label>
+	<input type="password" id="confPassword" data-validate="password-confirm,not-empty">
+	</fieldset>
+
+
+	<h3>en-us|Default From E-mail</h3>
+	<fieldset>
+	<label for="from.name">en-us|Name</label>
+	<input type="text" id="from.name" data-field="text">
+	</fieldset>
+	
+	<fieldset>
+	<label for="from.email">en-us|E-mail</label>
+	<input type="text" id="from.email" data-field="email">
+	</fieldset>
+	
+	<fieldset>
+	<input type="button" id="continue" value="en-us|Continue" data-validate="1">
+	</fieldset>
+	
+	<div class="form-message"></div>
+</section>

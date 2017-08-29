@@ -1,0 +1,36 @@
+.xmlimages .images>div {
+	float:left;
+	margin:10px;
+	padding:10px;
+	position:relative;
+	width:256px;
+	height:256px;
+}
+
+.xmlimages .images>div .del {
+	position: absolute;
+    top: 10px;
+    left: 10px;
+    border-top-left-radius: 0;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+}
+
+.xmlimages .im-cont {
+	position:relative;
+	width:256px;
+	height:256px;
+	background-color:#EEE;	
+}
+
+.xmlimages .im-cont>img {
+	position:absolute;
+}
+
+.xmlimages .add-image {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #FFF;
+    border-radius: 10px 0 0 0;
+}

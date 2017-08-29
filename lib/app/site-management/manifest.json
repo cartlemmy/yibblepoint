@@ -1,0 +1,13 @@
+{
+	"name":"en-us|Site Management",
+	"version":"0.0",
+	"permissions":["site OR admin"],
+	"menuOrder":1,
+	"additionalMenu":[
+		{"ref":"../view","args":["db/instituteStaff"],"label":"en-us|OE Staff","icon":"../lib/definitions/db.instituteStaff"},
+		{"ref":"../view","args":["db/webData/events"],"label":"en-us|Events","icon":"../lib/definitions/db.webData.events"},
+		{"ref":"../view","args":["db/galleryImages"],"label":"en-us|Old Gallery","icon":"../lib/definitions/db.galleryImages"},
+		{"ref":"../view","args":["db/promoCode"],"label":"en-us|Promo Codes","icon":"../lib/definitions/db.promoCode"},
+		{"ref":"../view","args":["xml/mapdata"],"label":"en-us|Map","icon":"../lib/definitions/xml.mapdata"}
+	]
+}

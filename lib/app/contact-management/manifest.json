@@ -1,0 +1,13 @@
+{
+	"name":"en-us|Contact Management",
+	"version":"0.0",
+	"permissions":["crm OR admin"],
+	"menuOrder":1,
+	"additionalMenu":[
+		{"ref":"../view","args":["db/contacts"],"label":"en-us|Contacts","icon":"../lib/definitions/db.contacts"},
+		{"ref":"../view","args":["db/formSubmissions"],"label":"en-us|Form Submissions","icon":"../lib/definitions/db.formSubmissions"},
+		{"ref":"../view","args":["db/organizations"],"label":"en-us|Organizations","icon":"../lib/definitions/db.organizations"},
+		"",
+		{"ref":"../view","args":["db/surveys"],"label":"en-us|Surveys","icon":"../lib/definitions/db.surveys"}
+	]
+}

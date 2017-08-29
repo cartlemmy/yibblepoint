@@ -1,0 +1,15 @@
+{
+	"name":"en-us|Our Office",
+	"version":"0.0",
+	"permissions":["office OR admin"],
+	"menuOrder":1,
+	"additionalMenu":[
+		{"ref":"../view","permissions":["admin OR finance"],"args":["db/transactions"],"label":"en-us|Transactions","icon":"../lib/definitions/db.transactions"},
+		{"ref":"../view","permissions":["admin OR office"],"args":["db/userEvent"],"label":"en-us|User Events","icon":"../lib/definitions/db.userEvent"},
+		{"ref":"../view","permissions":["admin OR useradmin"],"args":["db/user"],"label":"en-us|Users","icon":"../lib/definitions/db.user"},
+		{"ref":"../view","permissions":["admin OR useradmin"],"args":["db/paliUser"],"label":"en-us|Pali Users","icon":"../lib/definitions/db.paliUser"},
+		{"ref":"../view","permissions":["admin OR developer OR support"],"args":["db/supportTicket"],"label":"en-us|Support Tickets","icon":"../lib/definitions/db.supportTicket"},
+		{"ref":"../chat","args":[],"label":"en-us|Chat"}
+	],
+	"coreApp":true
+}

@@ -1,0 +1,395 @@
+body.yibui *, body.yibui :before, body.yibui :after {
+	box-sizing: border-box;
+}
+
+a, a:hover, a:active {
+	text-decoration:none;
+	color:#25489A;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+}
+
+body, button, input, select, td {
+	font-family: colaborate, sans-serif;
+	font-weight: 200;
+	line-height: 20px;
+	font-size: 17px;
+}
+
+h1, h2, h3, h4, p, hr, button, input, select, textarea, .field, .error, .warning, .success, .yibui-popover>div {
+	margin: 10px;
+}
+
+hr {
+	border:none;
+}
+
+button {
+	cursor:pointer;
+}
+
+button, input, select, textarea {
+	height: 35px;
+	margin-bottom:0;
+	border: none;
+	border-bottom:1px solid rgba(0,0,0,0.2);
+	border-radius:1px;
+	background-color: rgba(0,0,0,0.1);
+	padding:1px 10px;
+}
+
+textarea {
+	height:105px;
+}
+
+input, textarea {
+	background-color: rgba(255,255,255,0.8);
+	border-bottom:1px solid rgba(255,255,255,0.2);
+	border-top:1px solid rgba(0,0,0,0.2);
+}
+
+input[type=checkbox], input[type=radio] {
+	border:none;
+	background-color:transparent;
+	box-shadow: none;
+}
+
+.field input[type=text], .field input[type=password], .field input[type=email], .field input[type=phone], .field select, .field textarea {
+	width:100%;
+}
+
+.field {
+	position:relative;
+	display:inline-block;
+	vertical-align:top;
+	height: 60px;
+}
+
+.field.textarea {
+	height: 135px;
+}
+
+.field>label {
+	position:relative;
+	margin-bottom:0;
+	color:#333;
+	text-align:left;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+.field:hover>label {
+	top:-2px;
+	font-size:17px;
+	color:#222;
+	text-shadow: 0 1px 0 #FFF;
+}
+
+.field>* {
+	display:block;
+    margin: 0;
+}
+
+.field>.cb {
+	height: 30px;
+    float: left;
+    margin-right: 30px;
+    position: relative;
+}
+
+.field>.cb label {
+	position: relative;
+    line-height: 34px;
+    padding-left: 20px;
+	padding-right: 20px;
+}
+    
+.field>.cb input[type=checkbox], .field>.cb input[type=radio] {
+	margin: 0 10px;
+	position: absolute;
+	left: -10px;
+}
+
+.field.stacked {
+	height:auto;
+}
+
+.field.stacked>.cb {
+	float:none;
+}
+
+.required {
+	font-style:italic;
+	color:#D21;
+}
+
+.border .cell>div, button, input, select, textarea, .yibui-popover>div {
+	box-shadow: 0 0 1px #888;
+}
+
+h1, h2, h3, h4 {
+	font-weight: normal;
+    opacity: 0.6;
+    text-transform: uppercase;   
+    text-rendering: optimizeLegibility;
+    letter-spacing: -1px;
+}
+
+h1 {
+    line-height: 22px;
+    font-size: 40px;
+    min-height: 30px;
+}
+
+h2 {
+	line-height: 30px;
+    font-size: 30px;
+    min-height: 20px;
+}
+
+h3 {
+	letter-spacing:0;
+	line-height: 32px;
+    font-size: 20px;
+    min-height: 20px;
+}
+
+h4 {
+    position: relative;
+    top: 10px;
+	margin-bottom: 0;
+	letter-spacing:0;
+	line-height: 20px;
+    font-size: 17px;
+    min-height: 20px;
+}
+
+.error, .warning, .success {
+	font-style:italic;
+}
+
+div.error, div.warning, div.success {
+	padding: 10px;
+	padding-bottom: 8px;
+	border-bottom:2px solid #999;
+}
+
+.error {
+	color:#990000;
+}
+
+div.error {
+	background-color:rgba(255,0,0,0.3);
+	border-color:#FF0000;
+	color:#4C0000;
+}
+
+.warning {
+	color:#CC9900;
+}
+
+div.warning {
+	background-color:rgba(255,191,0,0.3);
+	border-color:#FFBF00;
+	color:#4C3900;
+}
+
+.success {
+	color:#009900;
+}
+
+div.success {
+	background-color:rgba(0,191,0,0.3);
+	border-color:#00BF00;
+	color:#004C00;
+}
+
+.cont {
+	position:relative;
+	width:100%;
+	height:100%;
+}
+
+.vertical {
+	width:100%;
+}
+
+.horizontal {
+	float:left;
+	height:100%;
+}
+
+.cell-cont {
+	padding:10px;
+}
+
+.fill-height {
+	height:100%;
+	overflow:hidden;
+}
+
+.pad {
+	padding:10px;
+}
+
+.cell, .field-cell {
+	float:left;
+	position:relative;
+	padding:10px;
+	/*width:30px;
+	height:30px;*/
+	text-align:left;
+}
+
+.field-cell>.field {
+	width:100%;
+	margin:0;
+}
+
+.cell>div.in {
+	background-color:#EEE;
+	padding:10px;
+	position: absolute;
+    left: 10px;
+    right: 10px;
+    top: 10px;
+    bottom: 10px;
+    overflow:hidden;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table.table {
+	width:100%;
+	margin:0;
+}
+
+table.table>tbody>tr:nth-child(odd) {
+	 background-color:rgba(128,128,128,0.1);
+}
+
+table.table.clickable tr {
+	cursor:pointer;
+}
+
+table.table td, th {
+	text-align:left;
+	height:30px;
+	padding: 0 10px;
+}
+
+.full-page {
+	position:relative;
+	width:100%;
+	height:100vh;
+	min-height:400px;
+	background-position:center;
+	background-size:cover;
+}
+
+.clearfix {
+	width:0;
+	height:0;
+	clear:both;
+}
+
+.yibui-popover {
+	display:none;
+	position: absolute;
+	height:0;
+	width:0;
+}
+
+.yibui-popover .close {
+	cursor: pointer;
+    position: relative;
+    float: right;
+    margin-bottom: 6px;
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+    text-align: center;
+}
+
+.yibui-popover>div {
+	position: absolute;
+	min-width:100px;
+	min-height:100px;
+	background-color:#FFF;
+	padding:10px;
+}
+
+#yibui-date-picker table {
+	width:280px;
+}
+
+#yibui-date-picker .nav>th, #yibui-date-picker thead>.l th, #yibui-date-picker tbody.cal td {
+	width:40px;
+	height:40px;
+	text-align:center;
+	border:1px solid #FFF;
+	padding:0;
+	font-weight: lighter;
+}
+
+#yibui-date-picker .nav>th, #yibui-date-picker thead>.l th {
+	background-color:#EEE;
+}
+
+#yibui-date-picker .nav>th {
+	cursor:pointer;
+}
+
+#yibui-date-picker .nav>th.cur {
+	background-color:transparent;
+	cursor:initial;
+}
+
+#yibui-date-picker .sp td {
+	height:10px;
+}
+
+#yibui-date-picker thead>.l th {
+	font-size:12px;
+}
+
+#yibui-date-picker tbody.cal td {
+	cursor:pointer;
+	color:#999;
+}
+
+#yibui-date-picker tbody.cal td.m {
+	background-color:#EEF4FF;
+	color:#000;
+}
+
+
+#yibui-date-picker tbody.cal td.today {
+	background-color:#222;
+	color:#FFF;
+}
+
+#yibui-date-picker tbody.cal td.sel {
+	background-color:#FF0;
+	color:#000;
+}
+
+#yibui-date-range-picker .fc {
+	width:300px;
+}
+
+#yibui-date-range-picker .fc .field {
+	width: 130px;
+    float: left;
+}

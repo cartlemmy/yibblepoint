@@ -1,0 +1,31 @@
+{
+	"matchers":[
+		["remote host said:","\n","reason"]
+	],
+	"categories":{
+		"mailboxnotfound":"unavailable",
+		"mailboxisnotfound":"unavailable",
+		"mailboxwasnotfound":"unavailable",
+		"usernotfound":"unavailable",
+		"userisnotfound":"unavailable",
+		"userwasnotfound":"unavailable",
+		"thisuserdoesn":"unavailable",
+		"boxfull":"full",
+		"boxisfull":"full",
+		"unabletorelay":"no-relay",
+		"norelay":"no-relay",
+		"timedout":"temporary",
+		"temporarily":"temporary",
+		"outofmemory":"temporary",
+		"blacklist":"blacklist",
+		"blocked":"blacklist",
+		"spamcop":"blacklist",
+		"listedin":"blacklist",
+		"dynablock":"blacklist",
+		"blackhole":"blacklist",
+		"spamhaus":"blacklist",
+		"lookslikespam":"spam",
+		"antispam":"spam",
+		"spamscale":"spam"
+	}
+}

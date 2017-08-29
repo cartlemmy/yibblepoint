@@ -1,0 +1,7 @@
+{
+	"name":"en-us|Config Encrypt",
+	"version":"0.0",
+	"usesPersistentAppData":false,
+	"permissions":{},
+	"coreApp":true
+}

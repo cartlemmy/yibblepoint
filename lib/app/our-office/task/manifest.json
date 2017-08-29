@@ -1,0 +1,7 @@
+{
+	"name":"en-us|Task Widget",
+	"version":"0.0",
+	"usesPersistentAppData":true,
+	"permissions":["user"],
+	"noMenu":false
+}

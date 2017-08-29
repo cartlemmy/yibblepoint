@@ -1,0 +1,9 @@
+.s-gallery-icon {
+	cursor:pointer;
+	display:inline-block;
+	width:15px;
+	height:15px;
+	background-image:url('icons.png');
+}
+
+.s-gallery-del { background-position:0 0; }

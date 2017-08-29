@@ -1,0 +1,8 @@
+{
+	"name":"en-us|Password",
+	"version":"0.0",
+	"usesPersistentAppData":true,
+	"permissions":{},
+	"noMenu":true,
+	"coreApp":true
+}

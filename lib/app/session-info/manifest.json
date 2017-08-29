@@ -1,0 +1,9 @@
+{
+	"name":"en-us|Session Info",
+	"version":"0.0",
+	"usesPersistentAppData":true,
+	"permissions":["user"],
+	"noMenu":true,
+	"singleInstance":true,
+	"coreApp":true
+}

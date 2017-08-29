@@ -1,0 +1,7 @@
+{
+	"name":"en-us|Notification Stream",
+	"version":"0.0",
+	"usesPersistentAppData":true,
+	"permissions":["user"],
+	"singleInstance":true
+}

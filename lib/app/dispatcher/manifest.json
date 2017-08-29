@@ -1,0 +1,9 @@
+{
+	"name":"en-us|Dispatcher",
+	"version":"0.0",
+	"usesPersistentAppData":true,
+	"permissions":[],
+	"noClose":true,
+	"noMenu":true,
+	"coreApp":true
+}

@@ -1,0 +1,14 @@
+.s-editor-content-file,
+.s-editor-dynamic-file,
+.s-editor-sub-content,
+.s-editor-show-in-nav {
+	display:inline-block;
+	width:15px;
+	height:15px;
+	background-image:url('icons.png');
+}
+
+.s-editor-content-file { background-position:0 0; }
+.s-editor-dynamic-file { background-position:-15px 0; }
+.s-editor-sub-content { background-position:-30px 0; }
+.s-editor-show-in-nav { background-position:-45px 0; }

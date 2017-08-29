@@ -1,0 +1,7 @@
+{
+	"name":"en-us|Test",
+	"version":"0.0",
+	"usesPersistentAppData":false,
+	"permissions":{},
+	"coreApp":true
+}

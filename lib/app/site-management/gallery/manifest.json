@@ -1,0 +1,6 @@
+{
+	"name":"en-us|Gallery",
+	"version":"0.0",
+	"usesPersistentAppData":true,
+	"permissions":["site OR admin"]
+}

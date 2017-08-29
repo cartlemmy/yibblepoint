@@ -1,0 +1,28 @@
+<section>
+	<h3>en-us|Password</h3>en-us|
+	<p>Your password was recently reset. If this was done in error you can
+	either click the "Restore" button to restore your password to what it
+	was before the reset, or enter a new password.</p>
+	
+	<input type="button" id="restorePassword" value="en-us|Restore">
+</section>	
+	
+<section>
+	<h3>en-us|Reset your password</h3>
+	
+	<fieldset>
+	<label for="user">en-us|New Password</label>
+	<input type="password" id="password" data-validate="password,not-empty">
+	</fieldset>
+
+	<fieldset>
+	<label for="user">en-us|Re-type Password</label>
+	<input type="password" id="confPassword" data-validate="password-confirm,not-empty">
+	</fieldset>
+
+	<fieldset>
+	<input type="button" id="resetPassword" value="en-us|Reset" data-validate="1">
+	</fieldset>
+	
+	<div class="form-message"></div>
+</section>

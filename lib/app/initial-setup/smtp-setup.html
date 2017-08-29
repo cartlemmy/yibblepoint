@@ -1,0 +1,35 @@
+<section>
+	<h3>en-us|SMTP Setup</h3>
+	<fieldset>
+	<label for="Host">en-us|Host</label>
+	<input type="text" id="Host" data-validate="not-empty" data-field="text">
+	</fieldset>
+	
+	<fieldset>
+	<label for="Port">en-us|Port</label>
+	<input type="text" id="Port" data-validate="not-empty" data-field="number">
+	</fieldset>
+	
+	<fieldset id="SMTPAuth" data-field="checkbox" data-label="en-us|Use SMTP Authorization"></fieldset>
+	
+	<fieldset>
+	<label for="Username">en-us|Username</label>
+	<input type="text" id="Username" data-field="text">
+	</fieldset>
+	
+	<fieldset>
+	<label for="Password">en-us|Password</label>
+	<input type="password" id="Password" data-field="password">
+	</fieldset>
+
+	<fieldset>
+	<label for="confPassword">en-us|Re-type Password</label>
+	<input type="password" id="confPassword" data-validate="password-confirm">
+	</fieldset>
+	
+	<fieldset>
+	<input type="button" id="continue" value="en-us|Continue" data-validate="1">
+	</fieldset>
+	
+	<div class="form-message"></div>
+</section>

@@ -1,0 +1,6 @@
+{
+	"name":"en-us|Site Editor",
+	"version":"0.0",
+	"usesPersistentAppData":true,
+	"permissions":["user"]
+}

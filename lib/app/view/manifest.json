@@ -1,0 +1,8 @@
+{
+	"name":"en-us|DB View",
+	"version":"0.0",
+	"usesPersistentAppData":true,
+	"permissions":["user"],
+	"noMenu":true,
+	"coreApp":true
+}

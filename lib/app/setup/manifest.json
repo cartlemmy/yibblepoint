@@ -1,0 +1,11 @@
+{
+	"name":"en-us|Setup / Settings",
+	"version":"0.0",
+	"permissions":[],
+	"menuOrder":1,
+	"additionalMenu":[
+		{"ref":"../session-info"},
+		{"ref":"../activity"}
+	],
+	"coreApp":true
+}

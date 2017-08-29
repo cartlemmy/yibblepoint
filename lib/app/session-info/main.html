@@ -1,0 +1,81 @@
+<div class="tabbed">
+	<section title="en-us|Session">
+		<h3 id="software"></h3><br />
+		
+		<b>en-us|Logged in as <a href="javascript:;" id="loginName"></a>.</b>
+		
+		<p>en-us|You have been logged in for <span id="loginDuration"></span>.</p>
+		
+		<p><button id="logout">en-us|Log out</button></p>
+		
+		<span id="credits" style="display:none">
+			<h3>en-us|Credits</h3>
+			<p>
+				<span id="creditAmount"></span><br />
+				<a href="sl-open:recharge">en-us|Recharge Credits</a>
+			</p>
+		</span>
+		
+		<h3>en-us|Connection Info</h3>
+		<pre id="connection"></pre>
+	</section>
+
+	<section id="validation" title="en-us|Account Validation">
+		
+	</section>
+
+	<section title="en-us|Password Reset">
+		<h3>en-us|Reset your password</h3>
+		<fieldset>
+		<label for="user">en-us|New Password</label>
+		<input type="password" id="password" data-validate="password,not-empty">
+		</fieldset>
+
+		<fieldset>
+		<label for="user">en-us|Re-type Password</label>
+		<input type="password" id="confPassword" data-validate="password-confirm,not-empty">
+		</fieldset>
+
+		<fieldset>
+		<input type="button" id="resetPassword" value="en-us|Reset" data-validate="1">
+		</fieldset>
+		
+		<div class="form-message"></div>
+	</section>
+
+	<section title="en-us|Mobile Pass">
+		<h3>en-us|Your Mobile Pass Devices</h3>
+		<table>
+			<thead>
+				<tr>
+					<td></td>
+					<th>Name</th>
+					<th>Expires</th>
+				</tr>
+			</thead>
+			<tbody id="mobilePass" class="repeater">
+				<tr>
+					<td><button class="delete button" data-repeater-id="delete"></button></td>
+					<td data-repeater-id="name"></td>
+					<td data-repeater-id="expires" data-value-type="date" data-value-format="date"></td>
+				</tr>
+			</tbody>
+		</table>
+		
+		<h3>en-us|Set Up New Device</h3>
+		<p>en-us|Scan the below QR code with your mobile device to use it for passwordless logins.<br />
+		<img id="qr" style="width:270px;height:270px;">
+		</p>
+	</section>
+	
+	<section title="en-us|Running Apps">
+		<div class="repeater" id="apps">
+			<section>
+				<button style="float:left;" class="delete button" data-repeater-id="close" title="Close App"></button>
+				<div data-repeater-id="icon" data-repeater-set="background-image" style="width:24px;height:24px;float:left"></div>
+				<b><span data-repeater-id="title"></span> (<span data-repeater-id="ref"></span>)</b><br />
+				<span data-repeater-id="info"></span>				
+			</section>
+		</div>
+	</section>
+</div>
